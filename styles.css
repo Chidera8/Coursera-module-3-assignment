@@ -12,12 +12,6 @@ body {
   border: 0;
 }
 
-/*#logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
-  margin: 10px 15px 10px 0;
-}*/
 
 .navbar-brand {
   padding-top: 25px;
@@ -48,7 +42,7 @@ body {
 
 #nav-list {
   margin-top: 10px;
-/*    display: none;*/
+
 }
 #nav-list a {
   color: #951C49;
@@ -64,15 +58,7 @@ body {
 #phone {
   margin-top: 5px;
 }
-/*#phone a*/ { /* Phone number */
- /* text-align: right;
-  padding-bottom: 0;*/
-}
-/*#phone div { /* We Deliver */
-  /*color: #557c3e;
-  text-align: right;
-  padding-right: 15px;
-}*/
+
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
@@ -119,10 +105,7 @@ body {
 
 
 /* HOME PAGE */
-/*.container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;
-}*/
+
 
 .container .container-fluid{
     display: block;
@@ -202,7 +185,7 @@ div.box{
 
     
     .container .container-fluid{
-/*    display: flex;*/
+
     max-width: 100%;
 }
 
@@ -293,17 +276,7 @@ div.box{
   }
   /* End Footer */
 
-  /* Home Page */
-/*
-  .container .jumbotron {
-    margin-top: 30px;
-    padding: 0;
-  }
-  #menu-tile, #specials-tile {
-    width: 360px;
-    margin: 0 auto 15px;
-  }
-*/
+ 
 }
 
 
@@ -316,12 +289,6 @@ div.box{
   }
   /* End Header */
   
-  /* Home page */
-/*
-  #menu-tile, #specials-tile {
-    width: 280px;
-    margin: 0 auto 15px;
-  }
-*/
+ 
 }
 
